@@ -26,4 +26,6 @@ fileSystem.writeFile("f4.txt", "I like coding", 'utf8', (err) => {
     console.log("File written sucessfully")
 })
 
-append
+// TO DO:
+// appendFile , appendFileSync
+// unlink , unlinkSync
